@@ -1,5 +1,5 @@
 # Budget-Calculator
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Real-World Use Case: Weekly Budget Management for Students
 
 A college student receives $100 weekly allowance and needs to track spending on:
